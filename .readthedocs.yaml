@@ -14,3 +14,8 @@ python:
 
 sphinx:
   configuration: docs/source/conf.py
+
+#Adding pdf, epub and docx format
+formats: 
+  - pdf
+  - epub
