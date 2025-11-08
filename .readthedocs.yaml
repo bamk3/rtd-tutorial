@@ -18,5 +18,4 @@ sphinx:
 #Adding pdf, epub and docx format
 formats: 
   - pdf
-  - epub 
-  - docx
+  - epub
